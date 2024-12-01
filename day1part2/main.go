@@ -46,7 +46,6 @@ func main() {
 	}
 
 	fmt.Println(similarityScore)
-
 }
 
 var input = `46669   36559
